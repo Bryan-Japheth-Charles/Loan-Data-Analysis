@@ -1,5 +1,7 @@
 # Loan Data Analysis – Documentation
 
+Tableau link- https://public.tableau.com/app/profile/bryan.japheth.charles/viz/LoanDataTableau/LoanAndFundingInformation
+
 ## Introduction
 The purpose of this assignment is to explore, clean, and analyze a loan dataset to understand borrower characteristics, loan funding details, repayment performance, and risk-related factors.
 
